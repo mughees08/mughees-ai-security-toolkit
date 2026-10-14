@@ -1,0 +1,2 @@
+# AI Security Toolkit — no third-party dependencies required.
+# Uses only the Python 3.10+ standard library (re, json, socket, urllib, xml, pathlib, dataclasses).
