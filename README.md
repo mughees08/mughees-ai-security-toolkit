@@ -4,12 +4,12 @@
 
 Developer: **Muhammad Mughees Abbasi**
 
-![AI Security Toolkit banner and menu](assets/banner-preview.png)
+![AI Security Toolkit banner and menu](banner-preview.png)
 
 <details>
 <summary>Sample scan output</summary>
 
-![Sample scan output](assets/scan-preview.png)
+![Sample scan output](scan-preview.png)
 
 </details>
 
