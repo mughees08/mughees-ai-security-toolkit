@@ -64,12 +64,18 @@ ai-security-toolkit/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/ai-security-toolkit.git
-cd ai-security-toolkit
+git clone https://github.com/mughees08/mughees-ai-security-toolkit.git
+cd mughees-ai-security-toolkit
 chmod +x ai-sec-toolkit.sh
 ```
 
 Requires **Python 3.10+**. No pip installs needed.
+
+### Quick one-line setup & run (Termux / Linux)
+
+```bash
+pkg update -y && pkg upgrade -y && pkg install git python -y && git clone https://github.com/mughees08/mughees-ai-security-toolkit.git && cd mughees-ai-security-toolkit && chmod +x ai-sec-toolkit.sh && python main.py
+```
 
 ## Usage
 
