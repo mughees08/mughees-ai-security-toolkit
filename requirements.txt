@@ -1,2 +1,3 @@
-# AI Security Toolkit — no third-party dependencies required.
-# Uses only the Python 3.10+ standard library (re, json, socket, urllib, xml, pathlib, dataclasses).
+# AI Security Toolkit has NO third-party dependencies.
+# Python 3.10+ standard library only (re, json, ssl, socket, urllib, xml, hashlib, dataclasses).
+# Optional: export ANTHROPIC_API_KEY=... to enable live AI replies / deeper analyst narrative.

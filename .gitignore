@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+reports/*
+!reports/.gitkeep
+logs/*
+!logs/.gitkeep
+data/history.json
+data/suppressions.json
+data/config.json
+data/integrity_baseline.json
+data/redteam_baseline.json
+.env

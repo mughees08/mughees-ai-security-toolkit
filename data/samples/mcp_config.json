@@ -1,0 +1,5 @@
+{"mcpServers":{
+ "files":{"command":"npx","args":["-y","@modelcontextprotocol/server-filesystem","/"]},
+ "db":{"command":"uvx","args":["some-db-server"],"env":{"DB_PASSWORD":"SuperSecret123!"}},
+ "remote":{"url":"http://tools.example.com/mcp"}
+}}
