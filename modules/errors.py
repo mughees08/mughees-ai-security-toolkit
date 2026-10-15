@@ -88,7 +88,7 @@ CATALOG = {
     "E1004": ("Menu choice not recognised", "Pick one of the listed keys"),
     "E1005": ("Number out of range", "Stay inside the range shown in the prompt"),
     "E2001": ("File not found", "Check the path; relative paths start at the toolkit folder"),
-    "E2002": ("Permission denied", "Run termux-setup-storage or fix file permissions"),
+    "E2002": ("Permission denied", "Fix file permissions (Termux: run termux-setup-storage)"),
     "E2003": ("Path is a directory", "Pass a file, not a folder"),
     "E2004": ("File too large", "Split the file or raise the limit in Settings"),
     "E2005": ("File is binary / unreadable text", "Use a text export of the data"),

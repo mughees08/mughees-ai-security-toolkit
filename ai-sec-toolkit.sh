@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# AI Security Toolkit launcher (Linux / Termux / macOS)
+# AI Security Toolkit launcher (Linux (Kali, Ubuntu, Parrot, BlackArch, Debian, Arch, Fedora), Termux, macOS)
 # Developer: Muhammad Mughees Abbasi
 set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"

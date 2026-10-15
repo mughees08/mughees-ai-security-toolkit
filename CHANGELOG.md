@@ -1,6 +1,7 @@
 # Changelog
 
 ## 3.0.0
+* `install.sh`: cross-distro installer (Kali, Parrot, Ubuntu, BlackArch/Arch, Termux, Fedora, Alpine, macOS) with an `aisec` command.
 * New terminal UI engine: 5 themes (cyber, matrix, crimson, midnight, light), full-screen background, gradient banner, severity badges, risk bar, spinner.
 * Professional error system: stable codes (E1xxx input, E2xxx file, E3xxx parse, E4xxx network, E6xxx AI API, E9xxx internal), fixes shown to the user, tracebacks only with `--debug`, rotating log in `logs/`.
 * Input validation with re-prompts (no more silent fall-through on bad input).

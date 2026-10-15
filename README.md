@@ -35,6 +35,26 @@ Requires Python 3.10+. **No pip installs.**
 | `--scan-prompt "text"` | screen one prompt, exit code 2 if flagged |
 | `--selftest` | grade the guard (CI friendly) |
 
+## Supported platforms
+
+Pure Python 3.10+ standard library, so there is nothing to `pip install`.
+
+| Platform | Install Python |
+|---|---|
+| Kali / Parrot / Ubuntu / Debian | `sudo apt install python3` |
+| BlackArch / Arch | `sudo pacman -S python` |
+| Termux (Android) | `pkg install python` |
+| Fedora / Alpine / macOS | `dnf` / `apk` / `brew` |
+
+One-step setup (detects the distro, installs Python if missing, adds an `aisec` command):
+
+```bash
+git clone https://github.com/mughees08/mughees-ai-security-toolkit.git
+cd mughees-ai-security-toolkit
+bash install.sh
+aisec
+```
+
 ## Tools
 
 **Detection & Analysis**
